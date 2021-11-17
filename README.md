@@ -8,10 +8,11 @@ We will not be updating individual files after they are published, but will inst
 
 ### List of files and usabillity
 | File | Status | Notes | Date |
-| ----------- | ----------- | ----------------------------------------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | [big-robot-code-beta.0.0.1.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.0.1.v5python) | DEPRECIATED | Original robot code, basic center goal function that over-corrects sometimes | 10/12/2021 |
 | [big-robot-code-beta.0.0.2.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.0.2.v5python) | DEPRECIATED | Updated center-goal function to be more accurate and work better | 10/19/2021 |
-| [big-robot-code-beta.0.0.3.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.0.3.v5python) | CURRENT | Added manual interrupt to big-robot code and added two motors to the drive train | 11/2/2021 |
+| [big-robot-code-beta.0.0.3.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.0.3.v5python) | DEPRECIATED | Added manual interrupt to big-robot code and added two motors to the drive train | 11/2/2021 |
+| [big-robot-code-beta.0.0.4.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.0.4.v5python) | CURRENT | Added direction switch using R2 and L2, switches which end of the robot is considered forward by the controller | 11/9/2021 |
 | [big-robot-code-beta.0.1.0.v5python](https://github.com/Roobotics-5/Big-Robot-Code/blob/main/big-robot-code-beta0.1.0.v5python) | TESTING | Begin testing for the Autonomous period. Will be graphing true distance vs rotations on the wheels of the robot and creating algorithms based on which goal we want to grab using these raw polars, the visions sensor's ability to locate items, and the locations of things on the playing field | 11/2/2021 |
 
 ## Working with the .v5python
@@ -33,4 +34,4 @@ Each of the other vex sensors are similarly encoded, and must therefor be interp
 ----
 
 ### Authors
-Tobias Ward
+[Tobias Ward](https://github.com/MoonMoon2)
