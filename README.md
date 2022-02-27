@@ -36,4 +36,5 @@ Each of the other vex sensors are similarly encoded, and must therefor be interp
 
 ### Authors
 [Tobias Ward](https://github.com/MoonMoon2)
+
 [Weikai Rao](https://github.com/KennyRao)
